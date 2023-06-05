@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="example_for_remote_debug_of_clion_with_docker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="example_for_remote_debug_of_clion_with_docker" TARGET_NAME="example_for_remote_debug_of_clion_with_docker" CONFIG_NAME="Debug-Remote Host" RUN_TARGET_PROJECT_NAME="example_for_remote_debug_of_clion_with_docker" RUN_TARGET_NAME="example_for_remote_debug_of_clion_with_docker">
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>

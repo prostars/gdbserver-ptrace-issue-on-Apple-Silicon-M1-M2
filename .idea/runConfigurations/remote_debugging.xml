@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="remote debugging" type="CLion_Remote" version="1" remoteCommand="192.168.64.4:22244" symbolFile="" sysroot="">
+    <debugger kind="GDB" isBundled="true" />
+    <pathMapping remote=":/tmp/example" local="$PROJECT_DIR$" />
+    <method v="2" />
+  </configuration>
+</component>
